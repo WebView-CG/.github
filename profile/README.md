@@ -6,5 +6,6 @@ Welcome to the WebView Community Group GitHub organization.
 
 [Charter](https://github.com/WebView-CG/charter/blob/main/charter.md)
 
-[WebView: Usage Scenarios and Challenges Community Draft Report](https://webview-cg.github.io/usage-and-challenges/)
+[WebView: Compatibility Data Project](https://github.com/WebView-CG/Compatibility-Data-Project)
 
+[WebView: Usage Scenarios and Challenges Community Draft Report](https://webview-cg.github.io/usage-and-challenges/)
